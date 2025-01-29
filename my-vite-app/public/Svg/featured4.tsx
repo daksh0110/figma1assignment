@@ -1,6 +1,6 @@
-import React from 'react'
 
-export const featured4 = () => {
+
+ const Featured4 = () => {
   return (
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <mask id="mask0_322_3968" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
@@ -19,3 +19,4 @@ export const featured4 = () => {
 
   )
 }
+export default Featured4

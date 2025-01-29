@@ -1,4 +1,14 @@
 import Arrow from "../../public/Svg/Arrow"
+import FeaturedBox from "./FeaturedBox"
+import Featured1 from "../../public/Svg/Featured1"
+import Featured2 from "../../public/Svg/Featured2"
+import Featured3 from "../../public/Svg/Featured3"
+import Featured4 from "../../public/Svg/Featured4"
+import Featured5 from "../../public/Svg/Featured5"
+import Featured6 from "../../public/Svg/Featured6"
+import Featured7 from "../../public/Svg/Featured7"
+import Featured8 from "../../public/Svg/Featured8"
+
 
 const FeaturedJobs = () => {
   return (
@@ -15,7 +25,7 @@ const FeaturedJobs = () => {
 
     
     <div className="justify-between flex-auto items-center flex">
-    
+      { /* <FeaturedBox icon={<Featured1 />} title="" />*/}
     </div>
   </div>
   )
