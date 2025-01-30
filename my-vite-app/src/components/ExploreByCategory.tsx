@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
 import CategoryBox from './CategoryBox';
-import Category1 from "../../public/Svg/Category1";
-import Category2 from "../../public/Svg/Category2";
-import Category3 from "../../public/Svg/Category3";
-import Category4 from "../../public/Svg/Category4";
-import Category5 from "../../public/Svg/Category5";
-import Category6 from "../../public/Svg/Category6";
-import Category7 from "../../public/Svg/Category7";
-import Category8 from "../../public/Svg/Category8";
-import Arrow from "../../public/Svg/Arrow";
+import Category1 from "../Svg/Category1";
+import Category2 from "../Svg/Category2";
+import Category3 from "../Svg/Category3";
+import Category4 from "../Svg/Category4";
+import Category5 from "../Svg/Category5";
+import Category6 from "../Svg/Category6";
+import Category7 from "../Svg/Category7";
+import Category8 from "../Svg/Category8";
+import Arrow from "../Svg/Arrow";
 
 const ExploreByCategory = () => {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);

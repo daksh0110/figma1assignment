@@ -1,5 +1,5 @@
 import React from 'react';
-import DashBoard from "../../public/Svg/DashBoard"
+import DashBoard from "../Svg/DashBoard"
 const CTA = () => {
   return (
     <div className="p-10 relative">

@@ -1,4 +1,4 @@
-import Location from "../../public/Svg/Location";
+import Location from "../Svg/Location";
 
 const SearchMyJobDrop = () => {
     return (

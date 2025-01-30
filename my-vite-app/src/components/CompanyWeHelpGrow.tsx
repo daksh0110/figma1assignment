@@ -1,8 +1,8 @@
-import Vodafone from "./../../public/Svg/Vodafone"
-import Intel from "./../../public/Svg/Intel"
-import Tesla from "./../../public/Svg/Tesla"
-import Amd from "./../../public/Svg/Amd"
-import Talkit from "../../public/Svg/Talkit"
+import Vodafone from "../Svg/Vodafone"
+import Intel from "../Svg/Intel"
+import Tesla from "../Svg/Tesla"
+import Amd from "../Svg/Amd"
+import Talkit from "../Svg/Talkit"
 const CompanyWeHelpGrow = () => {
   return (
     <div className="max-w-screen-xl  mx-auto p-4">
